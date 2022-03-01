@@ -1,4 +1,4 @@
-//Myesha Mahazabeen, EMPLID: 24005884
+//Myesha Mahazabeen
 
 #include<iostream>
 #include<math.h>
