@@ -1,4 +1,4 @@
-//Myesha Mahazabeen, EMPLID:24005884
+//Myesha Mahazabeen
 
 #include<iostream>
 #include "HM4_P1_Mahazabeen_24005884_point.h"
